@@ -10,6 +10,7 @@ source /.venv
 
 ```
 pip install -r requirement.txt
+
 ```
 
 create .env file following .env_example
